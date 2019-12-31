@@ -1,0 +1,1 @@
+To run this testcase just compile and run it in the same directory with the input file and your assignment
